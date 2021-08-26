@@ -1,4 +1,7 @@
-### Prazer, sou o Caio Henrique!
+### Bem Vindo! 
+
+Sou o Caio Henrique!
+Atualmente, sou estagiário na Tata Consultancy Services e estudante de Gestão em TI na Universidade Cruzeiro do Sul. Tenho 24 anos. Meu instagram é @caiuhrs . Seja bem-vindo!✌️
 
  <div>
   <a href="https://github.com/caiuhrs">
