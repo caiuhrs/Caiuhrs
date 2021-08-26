@@ -4,7 +4,7 @@ Sou o Caio Henrique!
 Atualmente, sou estagiário na Tata Consultancy Services e estudante de Gestão em TI na Universidade Cruzeiro do Sul. Tenho 24 anos. Meu instagram é @caiuhrs . Seja bem-vindo!✌️
 
  <div>
-  <a href="https://github.com/caiuhrs">
+  <a href="https://github.com/caiuhrs/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiuhrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiuhrs&layout=compact&langs_count=7&theme=dark"/>
 </div>
