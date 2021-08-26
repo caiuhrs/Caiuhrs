@@ -5,6 +5,7 @@ Atualmente, sou estagiário na Tata Consultancy Services e estudante de Gestão 
 
  <div>
   <a href="https://github.com/caiuhrs/">
+   <img align="right" alt="Caio-Mandala" height="350" width="350" src="https://i.pinimg.com/originals/1b/45/c6/1b45c67ab319fede88933d99ba185e5d.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiuhrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiuhrs&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -13,7 +14,7 @@ Atualmente, sou estagiário na Tata Consultancy Services e estudante de Gestão 
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
- <img align="right" alt="Caio-Mandala" height="150" width="150" src="https://i.imgur.com/tBEzA7V.gif">
+
   
   ##
  
